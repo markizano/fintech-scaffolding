@@ -2,6 +2,8 @@
 
 Welcome to Kizano's FinTech, where I take you from zero to master in IT and DevOps!
 
+I wrote about this repo on [my blog](https://blog.markizano.net/2025/08/claude-code-vs-openai-codex-vs-cursor.html).
+
 - Website: [fintech.markizano.net](https://fintech.markizano.net/)
 - Github: [@Markizano](https://github.com/markizano)
 - TikTok: [@Markizano.Draconus](https://www.tiktok.com/@Markizano.Draconus)
